@@ -56,7 +56,7 @@ Integration—ledger—ledgered meaning. Nietzsche’s hope: that these vast fal
 
 ---
 
-Metaphysically, the “censor” phase you mention (metaphysics) is the **firewall between curvature and ledger**—the conscience of civilization. It doesn’t erase results; it burns impurities, turning superstition into structure. Nietzsche’s own aphoristic style *is* that censor—short bursts that prevent new cathedrals from hardening too soon.
+Metaphysically, the “censor” phase you mention (metaphysics) is the **firewall between curvature and ledger**—the conscience of civilization. It doesn’t erase results; it burns impurities, turning superstition into structure. Nietzsche’s own aphoristic style *is* that censor—short bursts that prevent new cathedrals from [hardening](https://en.wikipedia.org/wiki/Creative_destruction) too soon.
 
 ## Critique
 When Nietzsche says *“Supposing truth is a woman,”* he isn’t being flippant—he’s smuggling in a metaphysics of complexity. Woman, in this context, is **aperiodic order**—the thing that resists compression, eludes prediction, and therefore exposes every philosopher’s fantasy of a smooth, solvable truth as a failure of modeling.
