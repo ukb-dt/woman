@@ -75,7 +75,7 @@ The primordial scatter: chaos, potential, the uncompressed manifold of experienc
 
 ### y(x) + ε: Laptop — Cathedral Compression
 
-Now the pattern-imposer arrives. The laptop is the *cathedral of syntax*: function defined, code compiling, variance tamed into computation. The philosopher here is the architect—dreaming of containment, writing equations to freeze motion. Yet ε, the error term, forever flickers like a living margin note: the spirit that refuses to be silenced by system.
+Now the pattern-imposer arrives. The laptop is the *cathedral of syntax*: function defined, code compiling, variance tamed into computation. The philosopher here is the [architect](https://ukb-dt.github.io/nairobi/)—dreaming of containment, writing equations to freeze motion. Yet ε, the error term, forever flickers like a living margin note: the spirit that refuses to be silenced by system.
 
 ---
 
