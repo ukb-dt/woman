@@ -51,7 +51,7 @@ Integration—ledger—ledgered meaning. Nietzsche’s hope: that these vast fal
 | Background  | (x, y)  | Good/ Evil/ Beyond    | Raw variance; suspicion of value systems              |
 | Methods     | y(x)+ε  | Cathedral             | Pattern-imposing architecture; astrology, metaphysics |
 | Results     | dy/dx   | Tent                  | Empirical motion; gradient of becoming                |
-| Limitations | d²y/dx² | Dogma                 | Curvature, suppression, rigidity                      |
+| Limitations | d²y/dx² | Dogma / Play          | Curvature, suppression, rigidity                      |
 | Conclusions | ∫y dx   | Ledger / ΔS           | Integration, sublimation, culture’s memory            |
 
 ---
