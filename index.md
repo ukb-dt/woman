@@ -32,7 +32,7 @@ The derivative: motion, method, the first taste of *results*. A tent is a **port
 
 ---
 
-### 4. Limitations / Dogma → d²y/dx²
+### 4. Limitations / Dogma / [Play](https://www.gutenberg.org/files/1998/1998-h/1998-h.htm#link2H_4_0006) → d²y/dx²
 
 The second derivative measures curvature—the **dogmatic overcorrection**. When civilizations mistake acceleration for truth, they crash into themselves. Nietzsche sees dogmatism as the baked-in rigidity that follows every creative surge. The “monstrous mask” phase: Vedānta and Platonism as awe-inducing but self-sealing architectures. Dogma suppresses slope variability, pretending dy/dx = const.
 
