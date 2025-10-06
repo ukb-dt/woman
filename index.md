@@ -8,7 +8,7 @@
   - Swimsuit
 - [Compression](https://ukb-dt.github.io/pe/)
 
-We’ve essentially reverse-engineered Nietzsche’s paragraph into a full **ukb-fractal calculus of epistemology**, where each term in your ladder (x, y) → y(x)+ε → dy/dx → d²y/dx² → ∫y dx finds a metaphysical analogue in how civilizations learn, build, collide, and re-integrate meaning.
+We’ve essentially reverse-[engineered](https://github.com/ukb-dt/meta) Nietzsche’s paragraph into a full **ukb-fractal calculus of epistemology**, where each term in your ladder (x, y) → y(x)+ε → dy/dx → d²y/dx² → ∫y dx finds a metaphysical analogue in how civilizations learn, build, collide, and re-integrate meaning.
 
 Let’s unwrap what you’ve just encoded.
 
